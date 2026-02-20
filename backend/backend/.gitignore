@@ -1,0 +1,21 @@
+# Java
+target/
+*.class
+*.jar
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Env / secrets
+.env
+application-local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
